@@ -1,5 +1,11 @@
-<div align="center" style="background-color:#000; color:#fff; padding:20px;">
-  <!-- GitHub Readme Badges -->  
+
+   
+# Internship Journey Documentation
+
+Welcome to the comprehensive documentation of my internship experiences, where I contributed to cutting‑edge systems and compiler infrastructure projects. This README provides an organized overview of my roles, projects, technical accomplishments, and learnings.
+
+---
+<!-- GitHub Readme Badges -->  
   ![Profile Views](https://komarev.com/ghpvc/?username=priyanshscpp&color=brightgreen)  
   ![Status](https://img.shields.io/badge/status-production-green?style=for-the-badge)  
   ![Watchers](https://img.shields.io/github/watchers/priyanshscpp/internship-journey?style=social&label=Watchers)  
@@ -8,15 +14,6 @@
   ![Issues](https://img.shields.io/github/issues/priyanshscpp/internship-journey?style=for-the-badge&color=orange)  
   ![License](https://img.shields.io/github/license/priyanshscpp/internship-journey?style=for-the-badge&color=blue)  
   ![Last Commit](https://img.shields.io/github/last-commit/priyanshscpp/internship-journey?style=for-the-badge)  
-</div>
-
-<div style="background-color:#000; color:#fff; padding:20px;">
-   
-# Internship Journey Documentation
-
-Welcome to the comprehensive documentation of my internship experiences, where I contributed to cutting‑edge systems and compiler infrastructure projects. This README provides an organized overview of my roles, projects, technical accomplishments, and learnings.
-
----
 
 ## Table of Contents
 
