@@ -9,10 +9,9 @@ Welcome to the comprehensive documentation of my internship experiences, where I
   ![Profile Views](https://komarev.com/ghpvc/?username=priyanshscpp&color=brightgreen)  
   ![Status](https://img.shields.io/badge/status-production-green?style=for-the-badge)  
   ![Watchers](https://img.shields.io/github/watchers/priyanshscpp/internship-journey?style=social&label=Watchers)  
-  ![Forks](https://img.shields.io/github/forks/priyanshscpp/internship-journey?style=social&label=Forks)  
+   
   ![Stars](https://img.shields.io/github/stars/priyanshscpp/internship-journey?style=social&label=Stars)  
-  ![Issues](https://img.shields.io/github/issues/priyanshscpp/internship-journey?style=for-the-badge&color=orange)  
-  ![License](https://img.shields.io/github/license/priyanshscpp/internship-journey?style=for-the-badge&color=blue)  
+   
   ![Last Commit](https://img.shields.io/github/last-commit/priyanshscpp/internship-journey?style=for-the-badge)  
 
 ## Table of Contents
