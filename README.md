@@ -36,33 +36,16 @@ Over the course of my academic journey, I have pursued internships that deepened
 **Position:** Research Intern, Department of Computer Science & Engineering  
 **Duration:** [Jun 2024] – [Nov 2024] 
 
-## Introduction (STAR Method)
+###  Project: Symbolic Execution Engine [STAR Method]
 
 - **Situation:** At IIT Delhi, I joined a research internship in the Department of Computer Science & Engineering, where the lab was building formal verification tools based on symbolic execution. A key project was SkLEE, an extension of the KLEE symbolic execution engine.
 
-- **Task:** My main responsibility was to understand and work with the LLVM-based symbolic execution model used in SkLEE. I was tasked with studying how the symbolic engine analyzes code paths at the IR level, understanding how compiler backends and memory models work, and then building an extended infrastructure to test, verify, and generate testbenches for smart contract code.
+- **Task:** My main responsibility was to understand and work with the LLVM-based symbolic execution model used in SkLEE. I was tasked with studying how the symbolic engine analyzes code paths at the IR level, understanding how compiler backends and memory models work, and then building an extended infrastructure to **test, verify, and generate testbenches** for smart contract code.
 
 - **Action:** I thoroughly studied SkLEE’s internals, focusing on how it extends KLEE’s model, including symbolic memory state, solver interface, and path condition generation. I worked on modifying parts of its backend, ensuring it could process `.sol`-style input by integrating it with a frontend parser. I also built an intermediate backend that managed symbolic states and generated testbenches. In addition, I implemented a database layer to store results and created APIs to allow verification of smart contracts by feeding them into the engine, running symbolic execution, and generating human-readable test cases.
 
 - **Result:** I successfully developed a testbench generation pipeline from symbolic execution output, integrated it with a Solidity-like frontend, and created a functional backend system capable of smart contract logic analysis. This significantly improved developer visibility into contract behaviors and contributed to the lab’s larger goal of formally verifying code through symbolic analysis.
 
-
-### Project: Symbolic Execution Engine
-
-I led the development of a **custom symbolic execution engine** inspired by KLEE/SkLEE, designed to automatically analyze program logic and generate high‑coverage test cases. The engine accepted `.sol`-style input files (similar to Solidity syntax) but focused on **systems‑level analysis**, not blockchain semantics.
-
-**Objectives:**  
-- Build a clean, modular engine to parse program syntax into an internal intermediate representation (IR).  
-- Implement symbolic state tracking and constraint solving for path exploration.  
-- Automatically generate detailed, user‑readable test cases covering boundary and edge conditions.
-
-### Role & Responsibilities
-
-- **Architecture & Design:** Defined the overall engine architecture, including frontend parsing, IR representation, symbolic interpreter, and test generation pipeline.  
-- **Symbolic State & Memory Models:** Designed data structures to represent symbolic variables, memory allocations, and branch conditions.  
-- **Constraint Generation & Solving:** Integrated the Z3 SMT solver to filter infeasible paths and extract concrete input values for each feasible execution path.  
-- **Test Case Pipeline:** Built tooling to format and output readable test cases with input parameters, expected outcomes, and path summaries.  
-- **Benchmarking & Evaluation:** Measured engine performance against baseline tools, optimized solver calls, and documented coverage improvements.
 
 ### Technical Highlights
 
@@ -74,24 +57,17 @@ I led the development of a **custom symbolic execution engine** inspired by KLEE
 
 ### Tools & Technologies
 
-- **Languages:** C++, JavaScript, Solidity(Basic)  
-- **Compiler Frameworks:** LLVM IR principles, ANTLR for parser generation  
+- **Languages:** C++, JavaScript, Solidity(For test inputs)  
+- **Compiler Frameworks:** LLVM IR principles, SKLEE, KLEE 
 - **Solvers:** Z3 SMT solver  
 - **Version Control:** Git, GitHub  
 - **Build & CI:** CMake, GitHub Actions
 
-### Key Achievements
-
-- **Performance Gains:** Reduced average solver calls by 30% through caching and state‑merging heuristics.  
-- **Coverage Improvement:** Achieved over 95% path coverage on benchmark programs of moderate complexity.  
-- **Reusable Framework:** Delivered a modular codebase with clear interfaces, enabling future extensions to new input languages.
-
----
 
 ## Learnings & Skills Developed
 
 - **Compiler Design:** Deepened understanding of IR representation, parsing techniques, and code generation.  
-- **Linux Internals & Working:** Gained practical experience with IIT Delhi Cloud Badal solving, path constraint management, and symbolic reasoning.  
+- **Linux Internals & Working:** Gained practical experience with IIT Delhi Cloud Badal solving path constraint management, and symbolic reasoning.  
 - **Systems Engineering:** Enhanced skills in performance optimization, memory modeling, and modular software architecture.
 - **Backend Infrastructure:** Deepened understanding of Cloud Infra and different systems design techniques, and code generation.  
 - **Collaboration & Documentation:** Wrote comprehensive technical documentation, conducted code reviews, and presented findings to research mentors.
