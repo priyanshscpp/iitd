@@ -11,11 +11,6 @@ Welcome to the comprehensive documentation of my internship experiences, where *
 
 1. [Overview](#overview)  
 2. [Internship at IIT Delhi](#internship-at-iit-delhi)  
-   - [Project: Symbolic Execution Engine](#project-symbolic-execution-engine)  
-   - [Role & Responsibilities](block.md)  
-   - [Technical Highlights](#technical-highlights)  
-   - [Tools & Technologies](#tools--technologies)  
-   - [Key Achievements](#key-achievements)
 3. [Detailed Research Report ](#internship-at-iit-delhi)  
    - [Basics: Blockchain & Smart Contracts](block.md)  
    - [Smart Contract Security & Testing](smart.md)  
@@ -87,7 +82,7 @@ This internship laid the foundation for further exploration of **systems & compi
 ---
 ## Acknowledgments
 
-I would like to thank Prof. Subodh Vishnu Sharma, my research mentor at IIT Delhi, for his guidance throughout the internship. This internship was part of the research work conducted at the Systems Verification Group, IIT Delhi.Special thanks to my colleague Kishitz Jha [CSE'25 @ IIT Delhi] for his collaboration on parser integration and for contributing significantly to testing and debugging workflow. 
+I would like to thank **Prof. Subodh Vishnu Sharma**, my research mentor at IIT Delhi, for his guidance throughout the internship. This internship was part of the research work conducted at the **Systems Verification Group, IIT Delhi**. Special thanks to my colleague Kishitz Jha [CSE'25 @ IIT Delhi] for his collaboration on parser integration and for contributing significantly to testing and debugging workflow. 
 
 ## Contact Information
 
