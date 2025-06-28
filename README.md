@@ -5,9 +5,6 @@
 
 Welcome to the comprehensive documentation of my internship experiences, where **I contributed to cutting‑edge systems and compiler infrastructure projects**. This README provides an organized overview of my roles, projects, technical accomplishments, and learnings.
 
----
-<!-- GitHub Readme Badges -->  
- 
 
 
 ## Table of Contents
@@ -18,10 +15,16 @@ Welcome to the comprehensive documentation of my internship experiences, where *
    - [Role & Responsibilities](block.md)  
    - [Technical Highlights](#technical-highlights)  
    - [Tools & Technologies](#tools--technologies)  
-   - [Key Achievements](#key-achievements)  
-3. [Learnings & Skills Developed](#learnings--skills-developed)  
-4. [Impact & Future Work](#impact--future-work)  
-5. [Contact Information](#contact-information)  
+   - [Key Achievements](#key-achievements)
+3. [Detailed Research Report ](#internship-at-iit-delhi)  
+   - [Basics: Blockchain & Smart Contracts](block.md)  
+   - [Smart Contract Security & Testing](smart.md)  
+   - [Formal Verification (My Internship Area)](form.md)  
+   - [LLVM Compilation & Benchmarks Testing ](llvm.md)  
+   - [Application Integration](#app)    
+4. [Learnings & Skills Developed](#learnings--skills-developed)  
+5. [Impact & Future Work](#impact--future-work)  
+6. [Contact Information](#contact-information)  
 
 ---
 
@@ -84,7 +87,7 @@ This internship laid the foundation for further exploration of **systems & compi
 ---
 ## Acknowledgments
 
-I would like to thank [Prof. Subodh Vishnu Sharma], my research mentor at IIT Delhi, for his guidance throughout the internship. 
+I would like to thank Prof. Subodh Vishnu Sharma, my research mentor at IIT Delhi, for his guidance throughout the internship. This internship was part of the research work conducted at the Systems Verification Group, IIT Delhi.Special thanks to my colleague Kishitz Jha [CSE'25 @ IIT Delhi] for his collaboration on parser integration and for contributing significantly to testing and debugging workflow. 
 
 ## Contact Information
 
