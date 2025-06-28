@@ -15,7 +15,7 @@ Welcome to the comprehensive documentation of my internship experiences, where I
 1. [Overview](#overview)  
 2. [Internship at IIT Delhi](#internship-at-iit-delhi)  
    - [Project: Symbolic Execution Engine](#project-symbolic-execution-engine)  
-   - [Role & Responsibilities](#role--responsibilities)  
+   - [Role & Responsibilities](block.md)  
    - [Technical Highlights](#technical-highlights)  
    - [Tools & Technologies](#tools--technologies)  
    - [Key Achievements](#key-achievements)  
