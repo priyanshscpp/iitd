@@ -34,7 +34,7 @@ Over the course of my academic journey, I have pursued internships that deepened
 ## Internship at IIT Delhi
 
 **Position:** Research Intern, Department of Computer Science & Engineering  
-**Duration:** [Month Year] – [Month Year]
+**Duration:** [Jun 2024] – [Nov 2024] 
 
 ## Introduction (STAR Method)
 
@@ -74,7 +74,7 @@ I led the development of a **custom symbolic execution engine** inspired by KLEE
 
 ### Tools & Technologies
 
-- **Languages:** C++, Python (scripting & automation)  
+- **Languages:** C++, JavaScript, Solidity(Basic)  
 - **Compiler Frameworks:** LLVM IR principles, ANTLR for parser generation  
 - **Solvers:** Z3 SMT solver  
 - **Version Control:** Git, GitHub  
@@ -91,19 +91,18 @@ I led the development of a **custom symbolic execution engine** inspired by KLEE
 ## Learnings & Skills Developed
 
 - **Compiler Design:** Deepened understanding of IR representation, parsing techniques, and code generation.  
-- **Linux Internals & Wokring:** Gained practical experience with SMT solving, path constraint management, and symbolic reasoning.  
+- **Linux Internals & Working:** Gained practical experience with IIT Delhi Cloud Badal solving, path constraint management, and symbolic reasoning.  
 - **Systems Engineering:** Enhanced skills in performance optimization, memory modeling, and modular software architecture.
-- **Compiler Design:** Deepened understanding of IR representation, parsing techniques, and code generation.  
+- **Backend Infrastructure:** Deepened understanding of Cloud Infra and different systems design techniques, and code generation.  
 - **Collaboration & Documentation:** Wrote comprehensive technical documentation, conducted code reviews, and presented findings to research mentors.
 
 ---
 
 ## Impact & Future Work
 
-This internship laid the foundation for further exploration of **automated program analysis** and **verification systems**. Future directions include:
+This internship laid the foundation for further exploration of **systems & compiler engineering** and **verification systems**. Future directions include:
 
-- Extending the engine to support additional input languages (e.g., C, Rust).  
-- Integrating advanced heuristics for dynamic state merging to handle larger codebases.  
+- Extending and learning C/C++ engine to support additional input languages.    
 - Building a web‑based dashboard for visualizing execution paths and test coverage metrics.
 
 ---
@@ -111,8 +110,8 @@ This internship laid the foundation for further exploration of **automated progr
 ## Contact Information
 
 - **Name:** Priyanshu Yadav  
-- **Email:** pri.yadav@example.com  
-- **LinkedIn:** [linkedin.com/in/priyanshyadav](https://linkedin.com/in/priyanshyadav)  
+- **Email:** priyanshs.ece@gmail.com
+- **LinkedIn:** [linkedin.com/in/priyanshyadav](https://linkedin.com/in/priyanshhbti)  
 - **GitHub:** [github.com/priyanshscpp](https://github.com/priyanshscpp)
 
 ---
