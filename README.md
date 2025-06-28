@@ -36,6 +36,66 @@ Over the course of my academic journey, I have pursued internships that deepened
 **Position:** Research Intern, Department of Computer Science & Engineering  
 **Duration:** [Month Year] – [Month Year]
 
+
+# SkLEE Smart Contract Verification Tool
+
+## Introduction
+
+SkLEE is an advanced formal verification tool developed within the Department of Computer Science & Engineering at IIT Delhi. Built upon the foundation of the KLEE symbolic execution engine, SkLEE extends its capabilities to provide robust analysis and testbench generation for smart contracts. This project aims to enhance the reliability and security of smart contract code by formally verifying its behavior through symbolic execution.
+
+## My Role and Contributions
+
+During my research internship, my primary responsibility was to delve into SkLEE's LLVM-based symbolic execution model. This involved a deep dive into how the symbolic engine analyzes code paths at the Intermediate Representation (IR) level, understanding the intricacies of compiler backends and memory models.
+
+My key contributions include:
+
+* **Understanding SkLEE's Architecture:** Thoroughly studied the internals of SkLEE, focusing on its extensions to KLEE's core model, including symbolic memory state management, solver interface integration, and path condition generation.
+* **Frontend Integration for Solidity:** Modified SkLEE's backend to process `.sol`-style input by integrating it with a specialized frontend parser, enabling direct analysis of Solidity smart contracts.
+* **Intermediate Backend Development:** Built an intermediate backend responsible for managing symbolic states and generating comprehensive testbenches. This component translates symbolic execution outputs into practical test cases.
+* **Database Layer and API Development:** Implemented a persistent database layer to store verification results and developed APIs. These APIs facilitate feeding smart contracts into the engine, executing symbolic analysis, and generating human-readable test cases for developers.
+
+## Features
+
+* **Symbolic Execution for Smart Contracts:** Leverages the power of symbolic execution to explore all possible execution paths of smart contract code.
+* **LLVM IR Level Analysis:** Operates at the LLVM Intermediate Representation (IR) level, providing low-level and precise code analysis.
+* **Solidity Compatibility:** Integrated with a frontend parser to directly process and analyze `.sol` (Solidity) files.
+* **Automated Testbench Generation:** Automatically generates comprehensive test cases based on symbolic execution output, aiding in developer understanding and debugging.
+* **Symbolic State Management:** Manages complex symbolic memory states and path conditions during execution.
+* **Database for Results:** Stores verification results in a structured database for easy access and analysis.
+* **API for Verification:** Provides APIs to streamline the process of submitting smart contracts for verification and retrieving generated test cases.
+
+## How it Works (Conceptual Overview)
+
+1.  **Input:** A Solidity smart contract (`.sol` file) is provided as input.
+2.  **Frontend Parsing:** The integrated frontend parser converts the Solidity code into an intermediate representation suitable for SkLEE.
+3.  **Symbolic Execution:** SkLEE's symbolic execution engine takes this IR and explores all possible execution paths, maintaining symbolic values for variables and generating path conditions.
+4.  **Backend Processing:** The modified backend processes the symbolic execution results, managing symbolic states and preparing data for testbench generation.
+5.  **Testbench Generation:** The intermediate backend generates human-readable test cases based on the symbolic execution output, capturing different execution scenarios and their corresponding inputs/outputs.
+6.  **Results Storage & API:** Verification results and generated testbenches are stored in a database, accessible via dedicated APIs.
+
+## Installation and Usage (Conceptual)
+
+*(Note: Detailed installation and usage instructions would typically go here, including prerequisites, build steps, and example commands. As this is a README for a past project, these are conceptual placeholders.)*
+
+**Prerequisites:**
+
+* LLVM
+* Clang
+* Z3 (or other SMT solver)
+* Solidity compiler (for frontend integration)
+* Python (for scripting, APIs, and database interaction)
+
+**Building SkLEE:**
+
+```bash
+# Example commands (actual commands would depend on project structure)
+git clone <sklee-repository-url>
+cd sklee
+mkdir build
+cd build
+cmake ..
+make
+
 ### Project: Symbolic Execution Engine
 
 I led the development of a **custom symbolic execution engine** inspired by KLEE/SkLEE, designed to automatically analyze program logic and generate high‑coverage test cases. The engine accepted `.sol`-style input files (similar to Solidity syntax) but focused on **systems‑level analysis**, not blockchain semantics.
