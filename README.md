@@ -1,18 +1,14 @@
 
    
-# Internship Journey Documentation
+# Research Internship Report - IIT Delhi  ![Profile Views](https://komarev.com/ghpvc/?username=priyanshscpp&color=brightgreen)  
+  ![Status](https://img.shields.io/badge/status-production-green?style=for-the-badge)  
 
 Welcome to the comprehensive documentation of my internship experiences, where I contributed to cutting‑edge systems and compiler infrastructure projects. This README provides an organized overview of my roles, projects, technical accomplishments, and learnings.
 
 ---
 <!-- GitHub Readme Badges -->  
-  ![Profile Views](https://komarev.com/ghpvc/?username=priyanshscpp&color=brightgreen)  
-  ![Status](https://img.shields.io/badge/status-production-green?style=for-the-badge)  
-  ![Watchers](https://img.shields.io/github/watchers/priyanshscpp/internship-journey?style=social&label=Watchers)  
-   
-  ![Stars](https://img.shields.io/github/stars/priyanshscpp/internship-journey?style=social&label=Stars)  
-   
-  ![Last Commit](https://img.shields.io/github/last-commit/priyanshscpp/internship-journey?style=for-the-badge)  
+ 
+
 
 ## Table of Contents
 
