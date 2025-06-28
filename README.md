@@ -1,3 +1,17 @@
+<div align="center" style="background-color:#000; color:#fff; padding:20px;">
+  <!-- GitHub Readme Badges -->  
+  ![Profile Views](https://komarev.com/ghpvc/?username=priyanshscpp&color=brightgreen)  
+  ![Status](https://img.shields.io/badge/status-production-green?style=for-the-badge)  
+  ![Watchers](https://img.shields.io/github/watchers/priyanshscpp/internship-journey?style=social&label=Watchers)  
+  ![Forks](https://img.shields.io/github/forks/priyanshscpp/internship-journey?style=social&label=Forks)  
+  ![Stars](https://img.shields.io/github/stars/priyanshscpp/internship-journey?style=social&label=Stars)  
+  ![Issues](https://img.shields.io/github/issues/priyanshscpp/internship-journey?style=for-the-badge&color=orange)  
+  ![License](https://img.shields.io/github/license/priyanshscpp/internship-journey?style=for-the-badge&color=blue)  
+  ![Last Commit](https://img.shields.io/github/last-commit/priyanshscpp/internship-journey?style=for-the-badge)  
+</div>
+
+<div style="background-color:#000; color:#fff; padding:20px;">
+   
 # Internship Journey Documentation
 
 Welcome to the comprehensive documentation of my internship experiences, where I contributed to cutting‑edge systems and compiler infrastructure projects. This README provides an organized overview of my roles, projects, technical accomplishments, and learnings.
@@ -74,8 +88,9 @@ I led the development of a **custom symbolic execution engine** inspired by KLEE
 ## Learnings & Skills Developed
 
 - **Compiler Design:** Deepened understanding of IR representation, parsing techniques, and code generation.  
-- **Formal Methods:** Gained practical experience with SMT solving, path constraint management, and symbolic reasoning.  
-- **Systems Engineering:** Enhanced skills in performance optimization, memory modeling, and modular software architecture.  
+- **Linux Internals & Wokring:** Gained practical experience with SMT solving, path constraint management, and symbolic reasoning.  
+- **Systems Engineering:** Enhanced skills in performance optimization, memory modeling, and modular software architecture.
+- **Compiler Design:** Deepened understanding of IR representation, parsing techniques, and code generation.  
 - **Collaboration & Documentation:** Wrote comprehensive technical documentation, conducted code reviews, and presented findings to research mentors.
 
 ---
