@@ -3,7 +3,7 @@
 # Research Internship Report - IIT Delhi  ![Profile Views](https://komarev.com/ghpvc/?username=priyanshscpp&color=brightgreen)  
   ![Status](https://img.shields.io/badge/status-production-green?style=for-the-badge)  
 
-Welcome to the comprehensive documentation of my internship experiences, where I contributed to cutting‑edge systems and compiler infrastructure projects. This README provides an organized overview of my roles, projects, technical accomplishments, and learnings.
+Welcome to the comprehensive documentation of my internship experiences, where **I contributed to cutting‑edge systems and compiler infrastructure projects**. This README provides an organized overview of my roles, projects, technical accomplishments, and learnings.
 
 ---
 <!-- GitHub Readme Badges -->  
@@ -67,7 +67,7 @@ Over the course of my academic journey, I have pursued internships that deepened
 ## Learnings & Skills Developed
 
 - **Compiler Design:** Deepened understanding of IR representation, parsing techniques, and code generation.  
-- **Linux Internals & Working:** Gained practical experience with IIT Delhi Cloud Badal solving path constraint management, and symbolic reasoning.  
+- **Linux Internals :** Gained practical experience with IIT Delhi Cloud Badal solving path constraint management, and symbolic reasoning.  
 - **Systems Engineering:** Enhanced skills in performance optimization, memory modeling, and modular software architecture.
 - **Backend Infrastructure:** Deepened understanding of Cloud Infra and different systems design techniques, and code generation.  
 - **Collaboration & Documentation:** Wrote comprehensive technical documentation, conducted code reviews, and presented findings to research mentors.
@@ -82,6 +82,9 @@ This internship laid the foundation for further exploration of **systems & compi
 - Building a web‑based dashboard for visualizing execution paths and test coverage metrics.
 
 ---
+## Acknowledgments
+
+I would like to thank [Prof. Subodh Vishnu Sharma], my research mentor at IIT Delhi, for his guidance throughout the internship. 
 
 ## Contact Information
 
