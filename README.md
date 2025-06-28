@@ -82,7 +82,7 @@ This internship laid the foundation for further exploration of **systems & compi
 ---
 ## Acknowledgments
 
-I would like to thank **Prof. Subodh Vishnu Sharma**, my research mentor at IIT Delhi, for his guidance throughout the internship. This internship was part of the research work conducted at the **Systems Verification Group, IIT Delhi**. Special thanks to my colleague Kishitz Jha [CSE'25 @ IIT Delhi] for his collaboration on parser integration and for contributing significantly to testing and debugging workflow. 
+I would like to thank **Prof. Subodh Vishnu Sharma**, my research mentor at IIT Delhi, for his guidance throughout the internship. This internship was part of the research work conducted at the **Systems Verification Group, IIT Delhi**. Special thanks to my colleague Kishitz Jha [MnC'25 @ IIT Delhi] for his collaboration on parser integration and for contributing significantly to testing and debugging workflow. 
 
 ## Contact Information
 
